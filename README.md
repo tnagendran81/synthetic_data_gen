@@ -134,7 +134,7 @@ pip install --upgrade Faker
 
 ### Acknowledgments
 
-    OpenAI for providing the API with logprobs functionality
+    OpenAI for providing the API 
     Gradio for the intuitive web interface framework
 
 ### Related Reading
