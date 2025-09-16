@@ -142,6 +142,7 @@ pip install --upgrade Faker
 ### Related Reading
 
     OpenAI API Documentation
+    [Medium Readings](https://medium.com/@tnagendran.81/why-synthetic-data-generation-is-the-quiet-superpower-for-ai-and-enterprise-innovation-4ab819233e78) 
 
 ⭐ If this tool helped you generate useful Synthetic Data for your usecases, please star the repository!
 
