@@ -4,6 +4,8 @@
 Configurable, LLM-powered synthetic dataset generator with a Gradio UI.
 Create realistic enterprise-style datasets — companies → employees → products → reviews/specs — enriched by LLMs, streamed to disk, logged live in the UI, and ready for LangChain / RAG experiments.
 
+![Synthetic Data Generator](docs/images/Synth_data_gen2.png)
+
 ## Overview
 
 The Synthetic Data Generator provides safe, scalable, and configurable datasets for development, testing, and ML workflows.
