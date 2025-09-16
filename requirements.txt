@@ -1,0 +1,29 @@
+# Core Dependencies
+faker==37.6.0
+gradio==5.45.0
+pandas==2.2.3
+sqlalchemy==2.0.43
+pymongo==4.15.0
+dotenv
+
+# LLM Integration
+openai==1.79.0
+
+# Database Support
+psycopg2-binary==2.9.9  # For PostgreSQL
+sqlite3  # Built-in with Python
+
+# Utilities
+python-dateutil==2.9.0
+typing-extensions==4.13.2
+pydantic==2.11.4
+
+# Optional: For enhanced data generation
+numpy==1.26.4
+scipy>=1.11.0
+
+# Development Dependencies (Optional)
+pytest>=7.0.0
+black>=23.0.0
+flake8>=6.0.0
+jupyter>=1.0.0
